@@ -371,43 +371,46 @@
     }
   },
   "LuaList": {
-    "伊泽瑞尔": {
+    "AutoLevel": {
+      "load": true
+    },
+    "BlahajAIO-Nami": {
+      "load": false
+    }
+    "ellie-evelynn": {
+      "load": false
+    }
+    "ellie-kindred": {
+      "load": false
+    }
+    "Excalibur-Varus": {
+      "load": false
+    }
+    "redMasterYi": {
       "load": false
     },
-    "卡牌": {
+    "redMissFortune": {
+      "load": false
+    },
+    "redSenna": {
+      "load": false
+    },
+    "Twisted-Fate": {
       "load": false
     },
     "卡莉斯塔翻墙": {
-      "load": false
-    },
-    "女枪": {
-      "load": false
+      "load": true
     },
     "泽丽翻墙": {
-      "load": false
-    },
-    "泽拉斯": {
-      "load": false
-    },
-    "烬": {
-      "load": false
-    },
-    "维克托": {
-      "load": false
-    },
-    "自动加点": {
-      "load": false
+      "load": true
     },
     "诡术妖姬": {
       "load": false
     },
     "轮子妈格挡": {
-      "load": false
+      "load": true
     },
-    "酒桶": {
-      "load": false
-    },
-    "金克斯": {
+    "FHUtiliy": {
       "load": false
     }
   },
