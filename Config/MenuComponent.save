@@ -748,6 +748,169 @@
       }
     }
   },
+  "Draven": {
+    "E": {
+      "HitchanceE": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "antiGap": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "autoE": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "intE": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "IsOpen": {
+      "value": true
+    },
+    "Q": {
+      "AxeRangeToEnemy": {
+        "PermaShowValue": false,
+        "value": 480
+      },
+      "AxeRangeToEnemy2": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "AxeRangeToMe": {
+        "PermaShowValue": false,
+        "value": 350
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "TurretAxeMode": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "autoQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "catchAxe": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "farmQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "harassQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "keepQStack": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "R": {
+      "HitchanceR": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "Rcc": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "Rks": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "autoR": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "useR": {
+        "IsToggle": false,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 84,
+        "value": false
+      }
+    },
+    "W": {
+      "IsOpen": {
+        "value": false
+      },
+      "autoW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "slowW": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "draw": {
+      "DrawAxe": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "eRange": {
+        "PermaShowValue": false,
+        "color": 4294967040,
+        "value": false
+      },
+      "rRange": {
+        "PermaShowValue": false,
+        "color": 4286611584,
+        "value": false
+      }
+    },
+    "extra": {
+      "IsOpen": {
+        "value": false
+      },
+      "LCminions": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Mana": {
+        "PermaShowValue": false,
+        "value": 40
+      },
+      "PredictionType": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "collAA": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "fastE": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "fastR": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "info": {
+        "PermaShowValue": false
+      },
+      "recallCast": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    }
+  },
   "Evolve": {
     "AllowIgnoreLimit": {
       "PermaShowValue": false,
@@ -926,6 +1089,519 @@
       "value": false
     }
   },
+  "Ezreal": {
+    "E": {
+      "EAntiMelee": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "EKsCombo": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "EWhiteList": {
+        "Amumu": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Cassiopeia": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "IsOpen": {
+          "value": false
+        },
+        "Lucian": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Malphite": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Taric": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "antiGap": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "autoEgrab": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "HarassMana": {
+      "PermaShowValue": false,
+      "value": 30
+    },
+    "IsOpen": {
+      "value": true
+    },
+    "Q": {
+      "HitchanceQ": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "autoHarassQ": {
+        "IsToggle": true,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 85,
+        "value": true
+      },
+      "autoQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "farmOutQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "farmQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "harassQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "ignoreMinionCol": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "jungleQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "lastHitQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "lcQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "panicFarmQ": {
+        "IsToggle": true,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 50,
+        "value": false
+      },
+      "waitW": {
+        "PermaShowValue": false,
+        "value": false
+      }
+    },
+    "R": {
+      "HitchanceR": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "MaxRangeR": {
+        "PermaShowValue": false,
+        "value": 3000
+      },
+      "MinRangeR": {
+        "PermaShowValue": false,
+        "value": 900
+      },
+      "Rcc": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "Rturrent": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "autoR": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "useR": {
+        "IsToggle": false,
+        "MouseWheelBind": false,
+        "PermaShowValue": false,
+        "key": 84,
+        "value": false
+      }
+    },
+    "W": {
+      "HitchanceW": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "autoW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "harassW": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "jungleW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "wPush": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "draw": {
+      "IsOpen": {
+        "value": false
+      },
+      "eRange": {
+        "PermaShowValue": false,
+        "color": 4294967040,
+        "value": false
+      },
+      "qRange": {
+        "PermaShowValue": false,
+        "color": 4278255615,
+        "value": false
+      },
+      "rRange": {
+        "PermaShowValue": false,
+        "color": 4286611584,
+        "value": false
+      },
+      "wRange": {
+        "PermaShowValue": false,
+        "color": 4294944000,
+        "value": false
+      }
+    },
+    "extra": {
+      "IsOpen": {
+        "value": false
+      },
+      "LCminions": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Mana": {
+        "PermaShowValue": false,
+        "value": 20
+      },
+      "PredictionType": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "collAA": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "fastQ": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "fastR": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "fastW": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "info": {
+        "PermaShowValue": false
+      },
+      "recallCast": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    }
+  },
+  "Ezreal_FH": {
+    "IsOpen": {
+      "value": true
+    },
+    "drawingsMenu": {
+      "IsOpen": {
+        "value": false
+      },
+      "drawRksFoW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "qDrawTarget": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "rDrawLine": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "rangesMenu": {
+        "IsOpen": {
+          "value": false
+        },
+        "eRange": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "qRange": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "rRange": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "wRange": {
+          "PermaShowValue": false,
+          "value": false
+        }
+      },
+      "wDrawLine": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "eMenu": {
+      "IsOpen": {
+        "value": false
+      },
+      "eAntiGapWhitelist": {
+        "IsOpen": {
+          "value": false
+        },
+        "eAntiGapWhitelist1073741855": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "eAntiGapWhitelist1073741856": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "eAntiGapWhitelist1073741857": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "eAntiGapWhitelist1073741858": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "eAntiGapWhitelist1073741859": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "eAntiGapclosers": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "eAssist": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "eReachKSenemy": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "extra": {
+      "IsOpen": {
+        "value": false
+      },
+      "LCminions": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Mana": {
+        "PermaShowValue": false,
+        "value": 20
+      },
+      "PredictionType": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "collAA": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "recallCast": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "tsIgnoreCol": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "hotkeys": {
+      "IsOpen": {
+        "value": false
+      },
+      "cancelRfowHotkey": {
+        "IsToggle": false,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 48,
+        "value": false
+      },
+      "qHotKey": {
+        "IsToggle": true,
+        "MouseWheelBind": false,
+        "PermaShowValue": false,
+        "key": 72,
+        "value": true
+      },
+      "rHotkey": {
+        "IsToggle": false,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 84,
+        "value": false
+      }
+    },
+    "qMenu": {
+      "IsOpen": {
+        "value": false
+      },
+      "qCastSpecialImmobileTarget": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "qCombo": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "qHarass": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "qJungleclear": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "qJunglesteal": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "qLaneclear": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "qLasthit": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "qRange": {
+        "PermaShowValue": false,
+        "value": 1000
+      },
+      "qStacksMenu": {
+        "IsOpen": {
+          "value": false
+        },
+        "qFirstStack": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "qKeepStack": {
+          "PermaShowValue": false,
+          "value": 2
+        },
+        "qStacksMinMana": {
+          "PermaShowValue": false,
+          "value": 30
+        },
+        "qUseStacks": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      }
+    },
+    "rMenu": {
+      "IsOpen": {
+        "value": false
+      },
+      "dummyInfo": {
+        "PermaShowValue": false
+      },
+      "dummyInfo2": {
+        "PermaShowValue": false
+      },
+      "dummyInfo3": {
+        "PermaShowValue": false
+      },
+      "rCC": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "rCombo": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "rMaxRange": {
+        "PermaShowValue": false,
+        "value": 1300
+      },
+      "rMinRange": {
+        "PermaShowValue": false,
+        "value": 525
+      },
+      "rMinRangeCC": {
+        "PermaShowValue": false,
+        "value": 600
+      },
+      "rMinRangeCCignore": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "rMinRangeFoW": {
+        "PermaShowValue": false,
+        "value": 600
+      },
+      "rMinRangeFoWignore": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "rRecallKS": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "wMenu": {
+      "IsOpen": {
+        "value": false
+      },
+      "wBaronDragon": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "wCombo": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "wHarass": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "wTower": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    }
+  },
   "GreatSharp": {
     "MenuSettings": {
       "BasePosition": {
@@ -1031,6 +1707,263 @@
     "sendChat": {
       "PermaShowValue": false,
       "value": false
+    }
+  },
+  "Jhin": {
+    "E": {
+      "EGCchampion": {
+        "Chogath": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "IsOpen": {
+          "value": false
+        },
+        "Nidalee": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Taric": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Trundle": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Warwick": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "Eaoe": {
+        "PermaShowValue": false,
+        "value": 3
+      },
+      "EmodeCombo": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "EmodeGC": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "Espell": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "HitchanceE": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "autoE": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "bushE": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "farmE": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "jungleE": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "IsOpen": {
+      "value": true
+    },
+    "Q": {
+      "IsOpen": {
+        "value": false
+      },
+      "Qminion": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "autoQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "farmQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "harassQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "jungleQ": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "R": {
+      "IsOpen": {
+        "value": false
+      },
+      "MaxRangeR": {
+        "PermaShowValue": false,
+        "value": 3000
+      },
+      "MinRangeR": {
+        "PermaShowValue": false,
+        "value": 1000
+      },
+      "Rks": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "Rsafe": {
+        "PermaShowValue": false,
+        "value": 1000
+      },
+      "Rvisable": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "autoR": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "useR": {
+        "IsToggle": false,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 84,
+        "value": false
+      }
+    },
+    "W": {
+      "HitchanceW": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "MaxRangeW": {
+        "PermaShowValue": false,
+        "value": 2500
+      },
+      "MinRangeW": {
+        "PermaShowValue": false,
+        "value": 500
+      },
+      "Wmark": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "Wmarkall": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "autoW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "autoWcc": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "autoWcombo": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "farmW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "harassW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "jungleW": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "critExploit": {
+      "IsToggle": true,
+      "MouseWheelBind": false,
+      "PermaShowValue": true,
+      "key": 85,
+      "value": true
+    },
+    "draw": {
+      "IsOpen": {
+        "value": false
+      },
+      "eRange": {
+        "PermaShowValue": false,
+        "color": 4294967040,
+        "value": false
+      },
+      "miniMapRange": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "qRange": {
+        "PermaShowValue": false,
+        "color": 4278255615,
+        "value": false
+      },
+      "rRange": {
+        "PermaShowValue": false,
+        "color": 4286611584,
+        "value": false
+      },
+      "wRange": {
+        "PermaShowValue": false,
+        "color": 4294944000,
+        "value": false
+      }
+    },
+    "extra": {
+      "IsOpen": {
+        "value": false
+      },
+      "LCminions": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Mana": {
+        "PermaShowValue": false,
+        "value": 20
+      },
+      "PredictionType": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "collAA": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "fastE": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "fastR": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "fastW": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "info": {
+        "PermaShowValue": false
+      },
+      "recallCast": {
+        "PermaShowValue": false,
+        "value": true
+      }
     }
   },
   "Jinx": {
@@ -1662,7 +2595,7 @@
       },
       "Mana": {
         "PermaShowValue": false,
-        "value": 20
+        "value": 40
       },
       "PredictionType": {
         "PermaShowValue": false,
@@ -1837,6 +2770,398 @@
       }
     }
   },
+  "KogMaw": {
+    "E": {
+      "HitchanceE": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "autoE": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "farmE": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "harassE": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "jungleE": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "IsOpen": {
+      "value": true
+    },
+    "Q": {
+      "HitchanceQ": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "autoQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "farmQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "harassQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "jungleQ": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "R": {
+      "BetterRHitchance": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "HitchanceR": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "Raa": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "Rks": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "RmaxHp": {
+        "PermaShowValue": false,
+        "value": 65
+      },
+      "autoR": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "comboStack": {
+        "PermaShowValue": false,
+        "value": 3
+      },
+      "harasStack": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "useR": {
+        "IsToggle": false,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 84,
+        "value": false
+      }
+    },
+    "W": {
+      "IsOpen": {
+        "value": false
+      },
+      "autoW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "harassW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "jungleW": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "draw": {
+      "IsOpen": {
+        "value": false
+      },
+      "eRange": {
+        "PermaShowValue": false,
+        "color": 4294967040,
+        "value": false
+      },
+      "qRange": {
+        "PermaShowValue": false,
+        "color": 4278255615,
+        "value": false
+      },
+      "rRange": {
+        "PermaShowValue": false,
+        "color": 4286611584,
+        "value": false
+      },
+      "wRange": {
+        "PermaShowValue": false,
+        "color": 4294944000,
+        "value": false
+      }
+    },
+    "extra": {
+      "IsOpen": {
+        "value": false
+      },
+      "LCminions": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Mana": {
+        "PermaShowValue": false,
+        "value": 20
+      },
+      "PredictionType": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "collAA": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "fastE": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "fastQ": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "fastR": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "info": {
+        "PermaShowValue": false
+      },
+      "recallCast": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    }
+  },
+  "KogMaw_1v9": {
+    "IsOpen": {
+      "value": true
+    },
+    "drawingsMenu": {
+      "IsOpen": {
+        "value": false
+      },
+      "rHpDrawings": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "rangesMenu": {
+        "IsOpen": {
+          "value": false
+        },
+        "eRange": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "qRange": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "rRange": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "wRange": {
+          "PermaShowValue": false,
+          "value": false
+        }
+      },
+      "wDuration": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "eMenu": {
+      "IsOpen": {
+        "value": false
+      },
+      "eCC": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "eCombo": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "eHarass": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "eKS": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "eMeleeGapcloser": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "hitchanceE": {
+        "PermaShowValue": false,
+        "value": 1
+      }
+    },
+    "extra": {
+      "IsOpen": {
+        "value": false
+      },
+      "LCminions": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Mana": {
+        "PermaShowValue": false,
+        "value": 40
+      },
+      "PredictionType": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "collAA": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "recallCast": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "qMenu": {
+      "IsOpen": {
+        "value": false
+      },
+      "hitchanceQ": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "qCombo": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "qHarass": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "qJungleclear": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "qKS": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "qLaneclear": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "qLasthit": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "rMenu": {
+      "IsOpen": {
+        "value": false
+      },
+      "hitchanceR": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "qrJgSteal": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "rBlockKillableAA": {
+        "PermaShowValue": false,
+        "value": 3
+      },
+      "rBlockWBuff": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "rCC": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "rCastSpecialImmobileTarget": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "rComboCount": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "rHotkey": {
+        "IsToggle": false,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 84,
+        "value": false
+      },
+      "rKS": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "rLasthitCannon": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "rMaxStacks": {
+        "PermaShowValue": false,
+        "value": 3
+      },
+      "rOnDash": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "rOnProcSpellcast": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "wMenu": {
+      "IsOpen": {
+        "value": false
+      },
+      "wCombo": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "wHarass": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "wJungleclear": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "wRange": {
+        "PermaShowValue": false,
+        "value": -55
+      },
+      "wSaveMana": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    }
+  },
   "LuaList": {
     "BlahajAIO-Nami": {
       "load": false
@@ -1860,7 +3185,7 @@
       "load": false
     },
     "redMissFortune": {
-      "load": false
+      "load": true
     },
     "redSenna": {
       "load": false
@@ -1873,6 +3198,207 @@
     },
     "诡术妖姬": {
       "load": false
+    }
+  },
+  "Lucian": {
+    "Advanced": {
+      "EMinMouseDiff": {
+        "PermaShowValue": false,
+        "value": 400
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "MaxSpellAngle": {
+        "PermaShowValue": false,
+        "value": 35
+      },
+      "URFMode": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "UltClose": {
+        "PermaShowValue": false,
+        "value": 150
+      }
+    },
+    "Combo": {
+      "ComboE": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "ComboEFirst": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "ComboQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "ComboR": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "ComboW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "FullCombo": {
+        "IsToggle": false,
+        "MouseWheelBind": false,
+        "PermaShowValue": false,
+        "key": 84,
+        "value": false
+      },
+      "HitchanceW": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "SmartE": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "UltLockOn": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "IsOpen": {
+      "value": true
+    },
+    "Misc": {
+      "IsOpen": {
+        "value": false
+      },
+      "Killsteal": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "PursuitSlow": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "harassQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "harassW": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "Performance": {
+      "IsOpen": {
+        "value": false
+      },
+      "SmartFarmWithQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "UseGoodAngles": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "UseMultishot": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "farmE": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "farmW": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "jungleE": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "jungleQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "jungleW": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "draw": {
+      "DrawFurthest": {
+        "PermaShowValue": false,
+        "color": 4287688336,
+        "value": true
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "eRange": {
+        "PermaShowValue": false,
+        "color": 4294967040,
+        "value": false
+      },
+      "qRange": {
+        "PermaShowValue": false,
+        "color": 4278255615,
+        "value": false
+      },
+      "rRange": {
+        "PermaShowValue": false,
+        "color": 4286611584,
+        "value": false
+      },
+      "wRange": {
+        "PermaShowValue": false,
+        "color": 4294944000,
+        "value": false
+      }
+    },
+    "extra": {
+      "IsOpen": {
+        "value": false
+      },
+      "LCminions": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Mana": {
+        "PermaShowValue": false,
+        "value": 40
+      },
+      "PredictionType": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "collAA": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "fastR": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "fastW": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "info": {
+        "PermaShowValue": false
+      },
+      "recallCast": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "useR": {
+      "IsToggle": false,
+      "MouseWheelBind": false,
+      "PermaShowValue": true,
+      "key": 84,
+      "value": false
     }
   },
   "MagneticWards": {
@@ -1891,6 +3417,174 @@
       "PermaShowValue": false,
       "color": 4294967295,
       "value": true
+    }
+  },
+  "MissFortune": {
+    "E": {
+      "HitchanceE": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "JungleE": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "agcE": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "autoE": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "farmE": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "harassE": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "IsOpen": {
+      "value": true
+    },
+    "Q": {
+      "IsOpen": {
+        "value": false
+      },
+      "autoQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "farmQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "harassQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "jungleQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "killQ": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "qMinionMoveCheck": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "qMinionWidth": {
+        "PermaShowValue": false,
+        "value": 80
+      }
+    },
+    "R": {
+      "HitchanceR": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "Rturrent": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "autoR": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "useR": {
+        "IsToggle": false,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 84,
+        "value": false
+      }
+    },
+    "W": {
+      "IsOpen": {
+        "value": false
+      },
+      "autoW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "farmW": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "harassW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "jungleW": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "draw": {
+      "IsOpen": {
+        "value": false
+      },
+      "eRange": {
+        "PermaShowValue": false,
+        "color": 4294967040,
+        "value": false
+      },
+      "qRange": {
+        "PermaShowValue": false,
+        "color": 4278255615,
+        "value": false
+      },
+      "rRange": {
+        "PermaShowValue": false,
+        "color": 4286611584,
+        "value": false
+      }
+    },
+    "extra": {
+      "IsOpen": {
+        "value": false
+      },
+      "LCminions": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Mana": {
+        "PermaShowValue": false,
+        "value": 20
+      },
+      "PredictionType": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "collAA": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "fastE": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "fastR": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "info": {
+        "PermaShowValue": false
+      },
+      "recallCast": {
+        "PermaShowValue": false,
+        "value": true
+      }
     }
   },
   "ObjectTracker": {
@@ -1978,6 +3672,18 @@
         "PermaShowValue": false,
         "value": false
       },
+      "Support ModeDraven": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "Support ModeEzreal": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "Support ModeJhin": {
+        "PermaShowValue": false,
+        "value": false
+      },
       "Support ModeJinx": {
         "PermaShowValue": false,
         "value": false
@@ -1990,6 +3696,18 @@
         "PermaShowValue": false,
         "value": false
       },
+      "Support ModeKogMaw": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "Support ModeLucian": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "Support ModeMissFortune": {
+        "PermaShowValue": false,
+        "value": false
+      },
       "Support ModeSamira": {
         "PermaShowValue": false,
         "value": false
@@ -1999,6 +3717,10 @@
         "value": false
       },
       "Support ModeTristana": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "Support ModeTwitch": {
         "PermaShowValue": false,
         "value": false
       },
@@ -2541,7 +4263,7 @@
     },
     "E": {
       "IsOpen": {
-        "value": true
+        "value": false
       },
       "autoE": {
         "PermaShowValue": false,
@@ -2669,7 +4391,7 @@
     "Q": {
       "HitchanceQ": {
         "PermaShowValue": false,
-        "value": 1
+        "value": 2
       },
       "IsOpen": {
         "value": false
@@ -2688,7 +4410,7 @@
       },
       "farmQ": {
         "PermaShowValue": false,
-        "value": true
+        "value": false
       },
       "harassQ": {
         "PermaShowValue": false,
@@ -2745,7 +4467,7 @@
       },
       "Mana": {
         "PermaShowValue": false,
-        "value": 20
+        "value": 40
       },
       "PredictionType": {
         "PermaShowValue": false,
@@ -3206,7 +4928,7 @@
       "wHotkey": {
         "IsToggle": false,
         "MouseWheelBind": false,
-        "PermaShowValue": false,
+        "PermaShowValue": true,
         "key": 84,
         "value": false
       }
@@ -3243,7 +4965,7 @@
       "rAimAssist": {
         "IsToggle": false,
         "MouseWheelBind": false,
-        "PermaShowValue": false,
+        "PermaShowValue": true,
         "key": 82,
         "value": false
       },
@@ -3257,7 +4979,7 @@
         },
         "rAntiMeleeHP": {
           "PermaShowValue": false,
-          "value": 45
+          "value": 30
         },
         "rAntiMeleeWhitelist": {
           "DrMundo": {
@@ -3409,6 +5131,147 @@
     "turretStyle": {
       "PermaShowValue": false,
       "value": 1
+    }
+  },
+  "Twitch": {
+    "E": {
+      "E5": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "EDamageIndicator": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "Edead": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "Eks": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "countE": {
+        "PermaShowValue": false,
+        "value": 6
+      },
+      "dmgEks": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "jungleE": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "IsOpen": {
+      "value": true
+    },
+    "Q": {
+      "IsOpen": {
+        "value": false
+      },
+      "autoQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "autoQkill": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "countQ": {
+        "PermaShowValue": false,
+        "value": 3
+      },
+      "recallSafe": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "R": {
+      "IsOpen": {
+        "value": false
+      },
+      "Rks": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "countR": {
+        "PermaShowValue": false,
+        "value": 3
+      }
+    },
+    "W": {
+      "HitchanceW": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "autoW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "gapW": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "draw": {
+      "IsOpen": {
+        "value": false
+      },
+      "eRange": {
+        "PermaShowValue": false,
+        "color": 4294967040,
+        "value": false
+      },
+      "rRange": {
+        "PermaShowValue": false,
+        "color": 4286611584,
+        "value": false
+      },
+      "wRange": {
+        "PermaShowValue": false,
+        "color": 4294944000,
+        "value": false
+      }
+    },
+    "extra": {
+      "IsOpen": {
+        "value": false
+      },
+      "LCminions": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Mana": {
+        "PermaShowValue": false,
+        "value": 20
+      },
+      "PredictionType": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "collAA": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "fastW": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "info": {
+        "PermaShowValue": false
+      },
+      "recallCast": {
+        "PermaShowValue": false,
+        "value": true
+      }
     }
   },
   "UltimateHelper": {
@@ -4597,11 +6460,19 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Draven": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Ekko": {
             "PermaShowValue": false,
             "value": true
           },
           "Elise": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Ezreal": {
             "PermaShowValue": false,
             "value": true
           },
@@ -4628,6 +6499,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Jhin": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Jinx": {
             "PermaShowValue": false,
             "value": true
@@ -4648,7 +6523,15 @@
             "PermaShowValue": false,
             "value": true
           },
+          "KogMaw": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Leblanc": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Lucian": {
             "PermaShowValue": false,
             "value": true
           },
@@ -4657,6 +6540,10 @@
             "value": true
           },
           "Maokai": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "MissFortune": {
             "PermaShowValue": false,
             "value": true
           },
@@ -4721,6 +6608,10 @@
             "value": true
           },
           "Tristana": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Twitch": {
             "PermaShowValue": false,
             "value": true
           },
@@ -5114,6 +7005,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Lucian": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Lux": {
             "PermaShowValue": false,
             "value": false
@@ -5139,6 +7034,10 @@
             "value": true
           },
           "MonkeyKing": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Morgana": {
             "PermaShowValue": false,
             "value": true
           },
@@ -5364,7 +7263,641 @@
       "value": false
     },
     "IsOpen": {
-      "value": false
+      "value": true
+    }
+  },
+  "ayaya_Jhin": {
+    "IsOpen": {
+      "value": true
+    },
+    "Jhin_combo_sub": {
+      "IsOpen": {
+        "value": false
+      },
+      "Jhin_combo_e": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "Jhin_combo_q": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "Jhin_combo_q_minion": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "Jhin_combo_r_col": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "Jhin_combo_r_fow": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "Jhin_combo_r_v": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Jhin_combo_w": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "Jhin_flash_kill": {
+        "IsOpen": {
+          "value": false
+        },
+        "Jhin_flash_kill_key": {
+          "IsToggle": true,
+          "MouseWheelBind": false,
+          "PermaShowValue": true,
+          "key": 55,
+          "value": false
+        },
+        "Jhin_flash_kill_q": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "Jhin_flash_kill_w": {
+          "PermaShowValue": false,
+          "value": false
+        }
+      },
+      "Jhin_galeforce_sub": {
+        "IsOpen": {
+          "value": false
+        },
+        "Jhin_combo_galeforce": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Jhin_combo_galeforce_q": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Jhin_combo_galeforce_w": {
+          "PermaShowValue": false,
+          "value": false
+        }
+      }
+    },
+    "Jhin_common_sub": {
+      "IsOpen": {
+        "value": false
+      },
+      "Jhin_combo_w_dh": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "Jhin_crit_exploit": {
+        "IsOpen": {
+          "value": false
+        },
+        "Jhin_force_crit_cr": {
+          "PermaShowValue": false,
+          "value": 60
+        },
+        "Jhin_force_crit_jg": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "Jhinforce_crit_key": {
+          "IsToggle": true,
+          "MouseWheelBind": false,
+          "PermaShowValue": true,
+          "key": 56,
+          "value": false
+        }
+      },
+      "Jhin_disable_sc": {
+        "IsToggle": true,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 57,
+        "value": false
+      },
+      "Jhin_e_agc": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "Jhin_e_hc": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Jhin_g_hc": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Jhin_q_hc": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Jhin_r_hc": {
+        "PermaShowValue": false,
+        "value": 3
+      },
+      "Jhin_turret_sub": {
+        "IsOpen": {
+          "value": false
+        },
+        "Jhin_turret_E": {
+          "PermaShowValue": false,
+          "value": 2
+        },
+        "Jhin_turret_q": {
+          "PermaShowValue": false,
+          "value": 1
+        },
+        "Jhin_turret_w": {
+          "PermaShowValue": false,
+          "value": 1
+        }
+      },
+      "Jhin_w_hc": {
+        "PermaShowValue": false,
+        "value": 3
+      },
+      "Jhin_w_sub": {
+        "IsOpen": {
+          "value": false
+        },
+        "Jhin_max_w_range": {
+          "PermaShowValue": false,
+          "value": 50
+        },
+        "Jhin_min_w_range": {
+          "PermaShowValue": false,
+          "value": 3
+        }
+      },
+      "Jhin_whitelist_agc_sub": {
+        "IsOpen": {
+          "value": false
+        },
+        "Jhin_wl_agc_checkboxChogath": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Jhin_wl_agc_checkboxNidalee": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Jhin_wl_agc_checkboxTaric": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Jhin_wl_agc_checkboxTrundle": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Jhin_wl_agc_checkboxWarwick": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      }
+    },
+    "Jhin_draw_sub": {
+      "IsOpen": {
+        "value": false
+      },
+      "Jhin_draw_damage": {
+        "PermaShowValue": false,
+        "color": 4291352320,
+        "value": false
+      },
+      "Jhin_draw_e_range": {
+        "PermaShowValue": false,
+        "color": 4286788608,
+        "value": false
+      },
+      "Jhin_draw_galeforce_range1": {
+        "PermaShowValue": false,
+        "color": 4280430336,
+        "value": true
+      },
+      "Jhin_draw_q2_range": {
+        "PermaShowValue": false,
+        "color": 4280430336,
+        "value": false
+      },
+      "Jhin_draw_q_path": {
+        "PermaShowValue": false,
+        "color": 4294813696,
+        "value": false
+      },
+      "Jhin_draw_r_range": {
+        "PermaShowValue": false,
+        "color": 4294813696,
+        "value": false
+      },
+      "Jhin_draw_status": {
+        "PermaShowValue": false,
+        "color": 4291352320,
+        "value": true
+      },
+      "Jhin_draw_w_range": {
+        "PermaShowValue": false,
+        "color": 4288448768,
+        "value": true
+      }
+    },
+    "Jhin_flee_sub": {
+      "IsOpen": {
+        "value": false
+      },
+      "Jhin_flee_aa": {
+        "PermaShowValue": false,
+        "value": 60
+      },
+      "Jhin_flee_e": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "Jhin_harass_sub": {
+      "IsOpen": {
+        "value": false
+      },
+      "Jhin_farm_e_sub": {
+        "IsOpen": {
+          "value": false
+        },
+        "Jhin_jungle_e": {
+          "PermaShowValue": false,
+          "value": false
+        }
+      },
+      "Jhin_farm_q_sub": {
+        "IsOpen": {
+          "value": false
+        },
+        "Jhin_farm_q": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "Jhin_jungle_q": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Jhin_lasthit_q": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "Jhin_farm_w_sub": {
+        "IsOpen": {
+          "value": false
+        },
+        "Jhin_jungle_w": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Jhin_lasthit_w": {
+          "PermaShowValue": false,
+          "value": 2
+        }
+      },
+      "Jhin_harass_q_list": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Jhin_harass_w": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "Jhin_level_sub": {
+      "IsOpen": {
+        "value": false
+      },
+      "Jhin_leveler_qwe": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "Jhin_leveler_r": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "Jhin_leveler_startlvl": {
+        "PermaShowValue": false,
+        "value": 1
+      }
+    },
+    "extra": {
+      "IsOpen": {
+        "value": false
+      },
+      "LCminions": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Mana": {
+        "PermaShowValue": false,
+        "value": 40
+      },
+      "PredictionType": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "collAA": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "recallCast": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    }
+  },
+  "ayaya_MissFortune": {
+    "IsOpen": {
+      "value": true
+    },
+    "MissFortune_draw_sub": {
+      "IsOpen": {
+        "value": false
+      },
+      "MissFortune_draw_binds_coloured": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "MissFortune_draw_dd": {
+        "PermaShowValue": false,
+        "color": 4294967295,
+        "value": true
+      },
+      "MissFortune_draw_passive": {
+        "PermaShowValue": false,
+        "color": 4294967295,
+        "value": true
+      },
+      "MissFortune_e_range": {
+        "PermaShowValue": false,
+        "color": 4294967295,
+        "value": true
+      },
+      "MissFortune_q_range": {
+        "PermaShowValue": false,
+        "color": 4294967295,
+        "value": true
+      },
+      "MissFortune_r_range": {
+        "PermaShowValue": false,
+        "color": 4294967295,
+        "value": false
+      }
+    },
+    "MissFortune_e_sub": {
+      "IsOpen": {
+        "value": false
+      },
+      "MissFortune_combo_e": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "MissFortune_e_agc": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "MissFortune_e_anti_melee": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "MissFortune_e_anti_melee_hp": {
+        "PermaShowValue": false,
+        "value": 45
+      },
+      "MissFortune_e_anti_melee_range": {
+        "PermaShowValue": false,
+        "value": 36
+      },
+      "MissFortune_e_hc": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "MissFortune_farm_e": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "MissFortune_flee_e": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "MissFortune_harass_e": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "MissFortune_jungle_e": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "MissFortune_whitelist_agc_sub": {
+        "IsOpen": {
+          "value": false
+        },
+        "MissFortune_wl_agc_Cassiopeia": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "MissFortune_wl_agc_Leona": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "MissFortune_wl_agc_Renekton": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "MissFortune_wl_agc_Ryze": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "MissFortune_wl_agc_Tristana": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "MissFortune_whitelist_am_sub": {
+        "IsOpen": {
+          "value": false
+        },
+        "MissFortune_wl_am_Cassiopeia": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "MissFortune_wl_am_Leona": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "MissFortune_wl_am_Renekton": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "MissFortune_wl_am_Ryze": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "MissFortune_wl_am_Tristana": {
+          "PermaShowValue": false,
+          "value": false
+        }
+      }
+    },
+    "MissFortune_q_sub": {
+      "IsOpen": {
+        "value": false
+      },
+      "MissFortune_combo_q": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "MissFortune_combo_q_minion": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "MissFortune_farm_q": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "MissFortune_harass_q": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "MissFortune_harass_q_minion": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "MissFortune_jungle_q": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "MissFortune_lasthit_q": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "MissFortune_q_hc": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "MissFortune_q_mode": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "MissFortune_qaq": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "MissFortune_r_sub": {
+      "IsOpen": {
+        "value": false
+      },
+      "MissFortune_combo_r_cc": {
+        "PermaShowValue": false,
+        "value": 800
+      },
+      "MissFortune_combo_r_cc_lethal": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "MissFortune_combo_r_e_await": {
+        "PermaShowValue": false,
+        "value": 500
+      },
+      "MissFortune_combo_r_in_aa_hp": {
+        "PermaShowValue": false,
+        "value": 33
+      },
+      "MissFortune_combo_r_waves": {
+        "PermaShowValue": false,
+        "value": 4
+      },
+      "MissFortune_r_evade": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "MissFortune_r_hc": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "MissFortuner_key": {
+        "IsToggle": true,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 84,
+        "value": false
+      }
+    },
+    "MissFortune_w_sub": {
+      "IsOpen": {
+        "value": false
+      },
+      "MissFortune_combo_w": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "MissFortune_combo_w_approach": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "MissFortune_flee_w": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "MissFortune_harass_q": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "MissFortune_harass_w_approach": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "MissFortune_jungle_w": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "extra": {
+      "IsOpen": {
+        "value": false
+      },
+      "LCminions": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Mana": {
+        "PermaShowValue": false,
+        "value": 20
+      },
+      "MissFortune_kg_jg": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "MissFortune_spellfarm_fast": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "MissFortune_use_flash_lt": {
+        "IsToggle": true,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 6,
+        "value": false
+      },
+      "MissFortune_use_flash_mode": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "PredictionType": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "collAA": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "recallCast": {
+        "PermaShowValue": false,
+        "value": true
+      }
     }
   },
   "evade": {
@@ -5468,8 +8001,104 @@
           "PermaShowValue": false
         }
       },
+      "DravenMovement": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "DravenTurnAround": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "turnAroundInfo": {
+          "PermaShowValue": false
+        }
+      },
+      "EzrealEvadingMethods": {
+        "EzrealEzrealE": {
+          "IsOpen": {
+            "value": false
+          },
+          "assistAngleLimit": {
+            "PermaShowValue": false,
+            "value": 90
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "fallbackAction": {
+            "PermaShowValue": false,
+            "value": 1
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isPreferable": {
+            "PermaShowValue": false,
+            "value": false
+          },
+          "manualUsageTitle": {
+            "PermaShowValue": false
+          }
+        },
+        "IsOpen": {
+          "value": false
+        }
+      },
+      "EzrealMovement": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "EzrealTurnAround": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "turnAroundInfo": {
+          "PermaShowValue": false
+        }
+      },
       "IsOpen": {
         "value": false
+      },
+      "JhinMovement": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "JhinTurnAround": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "turnAroundInfo": {
+          "PermaShowValue": false
+        }
       },
       "JinxMovement": {
         "IsOpen": {
@@ -5556,6 +8185,81 @@
         }
       },
       "KalistaTurnAround": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "turnAroundInfo": {
+          "PermaShowValue": false
+        }
+      },
+      "KogMawMovement": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "KogMawTurnAround": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "turnAroundInfo": {
+          "PermaShowValue": false
+        }
+      },
+      "LucianEvadingMethods": {
+        "IsOpen": {
+          "value": false
+        },
+        "LucianLucianE": {
+          "IsOpen": {
+            "value": false
+          },
+          "assistAngleLimit": {
+            "PermaShowValue": false,
+            "value": 90
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 2
+          },
+          "fallbackAction": {
+            "PermaShowValue": false,
+            "value": 0
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isPreferable": {
+            "PermaShowValue": false,
+            "value": false
+          },
+          "manualUsageTitle": {
+            "PermaShowValue": false
+          }
+        }
+      },
+      "LucianMovement": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "LucianTurnAround": {
         "IsOpen": {
           "value": false
         },
@@ -5722,6 +8426,27 @@
           "value": false
         }
       },
+      "MissFortuneMovement": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "MissFortuneTurnAround": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "turnAroundInfo": {
+          "PermaShowValue": false
+        }
+      },
       "SamiraEvadingMethods": {
         "IsOpen": {
           "value": false
@@ -5846,6 +8571,27 @@
         }
       },
       "TristanaTurnAround": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "turnAroundInfo": {
+          "PermaShowValue": false
+        }
+      },
+      "TwitchMovement": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "TwitchTurnAround": {
         "IsOpen": {
           "value": false
         },
@@ -7887,7 +10633,7 @@
         }
       },
       "IsOpen": {
-        "value": false
+        "value": true
       },
       "JannaSpellMenu": {
         "IsOpen": {
@@ -8946,6 +11692,74 @@
           }
         }
       },
+      "LucianSpellMenu": {
+        "IsOpen": {
+          "value": false
+        },
+        "LucianLucianQ": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 2
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "LucianLucianR": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "LucianLucianW": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 2
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        }
+      },
       "LuxSpellMenu": {
         "IsOpen": {
           "value": false
@@ -9333,6 +12147,74 @@
           }
         },
         "MissFortuneMakeItRainStay": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 1
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        }
+      },
+      "MorganaSpellMenu": {
+        "IsOpen": {
+          "value": false
+        },
+        "MorganaDarkBindingMissile": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "MorganaMorganaW": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 1
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "MorganaMorganaWStay": {
           "IsOpen": {
             "value": false
           },
@@ -12380,7 +15262,7 @@
     },
     "comboModeSettings6": {
       "IsOpen": {
-        "value": true
+        "value": false
       },
       "dynamicDangerLevelMenu": {
         "IsOpen": {
@@ -13235,7 +16117,7 @@
       },
       "humanizerMenu": {
         "IsOpen": {
-          "value": true
+          "value": false
         },
         "evadeDelay": {
           "IsOpen": {
@@ -15259,12 +18141,24 @@
       "PermaShowValue": false,
       "value": 0
     },
+    "DravenskinList": {
+      "PermaShowValue": false,
+      "value": 0
+    },
     "Enabled": {
       "PermaShowValue": false,
       "value": false
     },
+    "EzrealskinList": {
+      "PermaShowValue": false,
+      "value": 0
+    },
     "IsOpen": {
       "value": true
+    },
+    "JhinskinList": {
+      "PermaShowValue": false,
+      "value": 0
     },
     "JinxskinList": {
       "PermaShowValue": false,
@@ -15278,8 +18172,16 @@
       "PermaShowValue": false,
       "value": 0
     },
+    "KogMawskinList": {
+      "PermaShowValue": false,
+      "value": 0
+    },
     "LocalPlayerSkinSettings:": {
       "PermaShowValue": false
+    },
+    "LucianskinList": {
+      "PermaShowValue": false,
+      "value": 0
     },
     "SamiraskinList": {
       "PermaShowValue": false,
@@ -15304,6 +18206,10 @@
       "value": false
     },
     "TristanaskinList": {
+      "PermaShowValue": false,
+      "value": 0
+    },
+    "TwitchskinList": {
       "PermaShowValue": false,
       "value": 0
     },
