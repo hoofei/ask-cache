@@ -3716,6 +3716,10 @@
         "PermaShowValue": false,
         "value": false
       },
+      "Support ModeSyndra": {
+        "PermaShowValue": false,
+        "value": false
+      },
       "Support ModeTristana": {
         "PermaShowValue": false,
         "value": false
@@ -4541,6 +4545,331 @@
     "VirtualizeCursor": {
       "PermaShowValue": false,
       "value": false
+    }
+  },
+  "Syndra": {
+    "E": {
+      "Egapcloser": {
+        "Cassiopeia": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Galio": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Graves": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "IsOpen": {
+          "value": false
+        },
+        "Tristana": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Zyra": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "Eon": {
+        "Cassiopeia": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Galio": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Graves": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "IsOpen": {
+          "value": false
+        },
+        "Tristana": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Zyra": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "HitchanceE": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "autoE": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "farmE": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "harassE1": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "jungleE": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "useQE": {
+        "IsToggle": false,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 65,
+        "value": false
+      }
+    },
+    "IsOpen": {
+      "value": true
+    },
+    "Q": {
+      "HitchanceQ": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "QHarassMana": {
+        "PermaShowValue": false,
+        "value": 40
+      },
+      "autoQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "farmQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "farmQout": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "harassQ": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "jungleQ": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "R": {
+      "IsOpen": {
+        "value": false
+      },
+      "REMode": {
+        "IsToggle": true,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 50,
+        "value": false
+      },
+      "Rmode": {
+        "Cassiopeia": {
+          "PermaShowValue": false,
+          "value": 0
+        },
+        "Galio": {
+          "PermaShowValue": false,
+          "value": 0
+        },
+        "Graves": {
+          "PermaShowValue": false,
+          "value": 0
+        },
+        "IsOpen": {
+          "value": false
+        },
+        "Tristana": {
+          "PermaShowValue": false,
+          "value": 0
+        },
+        "Zyra": {
+          "PermaShowValue": false,
+          "value": 0
+        }
+      },
+      "autoR": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "rCount": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "useR": {
+        "IsToggle": false,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 82,
+        "value": false
+      }
+    },
+    "W": {
+      "HitchanceW": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "autoW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "farmW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "harassW": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "jungleW": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "draw": {
+      "IsOpen": {
+        "value": false
+      },
+      "eRange": {
+        "PermaShowValue": false,
+        "color": 4294967040,
+        "value": false
+      },
+      "qRange": {
+        "PermaShowValue": false,
+        "color": 4278255615,
+        "value": false
+      },
+      "rRange": {
+        "PermaShowValue": false,
+        "color": 4286611584,
+        "value": false
+      },
+      "wRange": {
+        "PermaShowValue": false,
+        "color": 4294944000,
+        "value": false
+      }
+    },
+    "extra": {
+      "IsOpen": {
+        "value": false
+      },
+      "LCminions": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Mana": {
+        "PermaShowValue": false,
+        "value": 20
+      },
+      "PredictionType": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "collAA": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "fastE": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "fastQ": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "fastW": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "info": {
+        "PermaShowValue": false
+      },
+      "recallCast": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    }
+  },
+  "TargetSelectorSyndra": {
+    "Advanced": {
+      "AttackOnlySelectedTarget": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "AttackSelectedTarget": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "IsOpen": {
+        "value": false
+      }
+    },
+    "Drawings": {
+      "IsOpen": {
+        "value": false
+      },
+      "SelectedTarget": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "IsOpen": {
+      "value": true
+    },
+    "Mode": {
+      "PermaShowValue": false,
+      "value": 0
+    },
+    "Priorities": {
+      "Cassiopeia": {
+        "PermaShowValue": false,
+        "value": 4
+      },
+      "Galio": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Graves": {
+        "PermaShowValue": false,
+        "value": 5
+      },
+      "Info": {
+        "PermaShowValue": false
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "Reset": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "Tristana": {
+        "PermaShowValue": false,
+        "value": 5
+      },
+      "Zyra": {
+        "PermaShowValue": false,
+        "value": 3
+      }
     }
   },
   "TeleportTracker": {
@@ -6595,6 +6924,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Syndra": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "TahmKench": {
             "PermaShowValue": false,
             "value": true
@@ -8550,6 +8883,27 @@
         }
       },
       "SivirTurnAround": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "turnAroundInfo": {
+          "PermaShowValue": false
+        }
+      },
+      "SyndraMovement": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "SyndraTurnAround": {
         "IsOpen": {
           "value": false
         },
@@ -13606,6 +13960,95 @@
           }
         }
       },
+      "SyndraSpellMenu": {
+        "IsOpen": {
+          "value": false
+        },
+        "SyndraSyndraE": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "SyndraSyndraQ": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 2
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "SyndraSyndraQE": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "SyndraSyndraW": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        }
+      },
       "TahmKenchSpellMenu": {
         "IsOpen": {
           "value": false
@@ -18204,6 +18647,10 @@
       "PermaShowValue": false,
       "key": 38,
       "value": false
+    },
+    "SyndraskinList": {
+      "PermaShowValue": false,
+      "value": 0
     },
     "TristanaskinList": {
       "PermaShowValue": false,
